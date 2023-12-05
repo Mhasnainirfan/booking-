@@ -1,0 +1,29 @@
+
+input[type="text"] {
+    width: 200px;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  
+  #cityList, #cityList2 {
+    
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 206px;
+    margin-top: -1px;
+    background-color: white;
+  }
+  
+  #cityList p, #cityList2 p {
+    padding: 8px;
+    margin: 0;
+    cursor: pointer;
+  }
+  
+  #cityList p:hover, #cityList2 p:hover {
+    background-color: #f0f0f0;
+  }
+  
